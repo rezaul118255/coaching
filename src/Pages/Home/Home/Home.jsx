@@ -8,6 +8,7 @@ const Home = () => {
             this is Home page
             this is Home page
             this is Home page
+            this is Home page
         </div>
     );
 };
